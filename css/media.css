@@ -1,0 +1,13 @@
+/* Mobil Screen */
+@media (max-width: 767px) {
+	 .subscribe .form-control {
+	 	margin:20px auto !important;
+
+	 }
+	 .text-center-xs {
+	 	text-align: center !important;
+	 }
+	 .about {
+	 	padding-top: 100px;
+	 }
+}

@@ -1,0 +1,23 @@
+/****Start Defaulte Theme****/
+
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:hover,
+.navbar-inverse .navbar-nav>.active>a:focus,
+.dropdown-menu>li>a:hover,
+.dropdown-menu>li>a:focus,
+.navbar-inverse .navbar-brand {
+    background-color: #E41b17;
+}
+
+.testimonials .carousel-indicators li.active {
+  border: 2px solid #E41b17;
+}
+.dropdown-menu,
+.testimonials .carousel-indicators li.active {
+    border-top: 3px solid #E41b17;
+}
+.footer h3, 
+.footer .copyright,
+.about h1 span, .about h3 span {
+    color: #E41b17;
+}

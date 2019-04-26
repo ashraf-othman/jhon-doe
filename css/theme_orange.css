@@ -1,0 +1,26 @@
+/****Start Orange Theme****/
+
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:hover,
+.navbar-inverse .navbar-nav>.active>a:focus,
+.dropdown-menu>li>a:hover,
+.dropdown-menu>li>a:focus,
+.navbar-inverse .navbar-brand
+
+{
+    background-color: #33b9ad;
+}
+
+.testimonials .carousel-indicators li.active {
+  border: 2px solid #33b9ad;
+}
+.dropdown-menu,
+.testimonials .carousel-indicators li.active 
+{
+    border-top: 3px solid #33b9ad;
+}
+.footer h3, 
+.footer .copyright,
+.about h1 span, .about h3 span {
+    color: #33b9ad;
+}
